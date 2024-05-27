@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer with a knack for building intuitive and sc
 - **Backend:** Express.js (API development), Node.js (scalable, event-driven applications)
 - **Frontend:** React (component-based architecture, virtual DOM for efficient UIs)
 
+![image](https://github.com/Darryl-Mbae/Portfolio/assets/102142446/1c48f911-d949-4f73-9913-8fadbfff091e)
 
 <a href="https://dm-project-1.netlify.app" target="_blank">
-![image](https://github.com/Darryl-Mbae/Portfolio/assets/102142446/1c48f911-d949-4f73-9913-8fadbfff091e)
 </a>
